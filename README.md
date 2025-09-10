@@ -43,7 +43,7 @@ Do you want to play a game of Blackjack? Type 'y' or 'n': y
 
 🂡  Blackjack Game!  🃏
 
-Player’s cards:
+<pre> ```Player’s cards:
 ┌───────┐ ┌───────┐
 │A      │ │K      │
 │       │ │       │
@@ -62,7 +62,7 @@ Dealer’s cards:
 │      8│
 └───────┘
 Score 8.
-
+``` </pre>
 📌 Future Improvements:
     - Add betting system and chip management
     - Allow multiple players
