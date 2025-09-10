@@ -65,7 +65,7 @@ Dealer’s cards:
 Score 8.
 </pre>
 📌 Future Improvements:
-    - Add betting system and chip management
-    - Allow multiple players
-    - Improve dealer AI strategy
-    - Add GUI version with Tkinter or PyGame
+* Add betting system and chip management
+* Allow multiple players
+* Improve dealer AI strategy
+* Add GUI version with Tkinter or PyGame
