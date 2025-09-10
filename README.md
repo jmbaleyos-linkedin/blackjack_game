@@ -33,10 +33,10 @@ Technologies Used:
 
 🚀 Getting Started
 1. Clone the repository
-    git clone https://github.com/jmbaleyos-linkedin/blackjack-game.git
-    cd blackjack-game
+    - git clone https://github.com/jmbaleyos-linkedin/blackjack-game.git
+    - cd blackjack-game
 3. Run the game
-    python main.py
+    - python main.py
 
 📸 Sample Gameplay
 Do you want to play a game of Blackjack? Type 'y' or 'n': y
