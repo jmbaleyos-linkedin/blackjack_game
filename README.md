@@ -36,7 +36,7 @@ Technologies Used:
 1. Clone the repository
     - git clone https://github.com/jmbaleyos-linkedin/blackjack-game.git
     - cd blackjack-game
-3. Run the game
+2. Run the game
     - python main.py
 
 📸 Sample Gameplay
