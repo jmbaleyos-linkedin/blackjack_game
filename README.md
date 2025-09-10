@@ -39,11 +39,11 @@ Technologies Used:
     - python main.py
 
 📸 Sample Gameplay
+<pre>
 Do you want to play a game of Blackjack? Type 'y' or 'n': y
 
 🂡  Blackjack Game!  🃏
 
-<pre>
 Player’s cards:
 ┌───────┐ ┌───────┐
 │A      │ │K      │
