@@ -25,11 +25,12 @@ Technologies Used:
 * Python 3
 * Built-in libraries: random
 * Custom ASCII art for card representation
-
+<pre>
 📁 blackjack-game
 │── main.py         # Main game logic
 │── art.py          # ASCII art for cards and logo
 │── README.md       # Project documentation
+</pre>
 
 🚀 Getting Started
 1. Clone the repository
